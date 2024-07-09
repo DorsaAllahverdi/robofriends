@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Magic School One';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Magic School One'), url('Magic School Two V2.woff') format('woff');
+  }
+
+  h1 {
+    font-family: 'Magic School One';
+    color: white;
+  }
